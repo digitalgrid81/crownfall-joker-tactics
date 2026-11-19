@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crownfall Joker Tactics</string>
+    <string name="app_title">CROWNFALL JOKER TACTICS</string>
+    <string name="brand">ROYAL JOKER</string>
+    <string name="cd_logo">Royal Joker emblem</string>
+
+    <string name="splash_subtitle">THE COURT ASSEMBLES</string>
+    <string name="splash_loading">LOADING…</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="start_match">START MATCH</string>
+    <string name="menu">MENU</string>
+    <string name="settings">SETTINGS</string>
+    <string name="campaign">CAMPAIGN</string>
+    <string name="challenge">CHALLENGE</string>
+    <string name="history">HISTORY</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="replay_analysis">REPLAY ANALYSIS</string>
+    <string name="resume">RESUME</string>
+    <string name="close">CLOSE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="pause">PAUSE</string>
+    <string name="deploy">DEPLOY</string>
+    <string name="decoy">DECOY</string>
+    <string name="unmask">UNMASK</string>
+    <string name="flip_orders">FLIP ORDERS</string>
+    <string name="end_turn">END TURN</string>
+    <string name="locked">LOCKED</string>
+    <string name="cleared_mark">✓</string>
+
+    <string name="menu_play_hint">QUICK COURT · 8 TURNS</string>
+    <string name="menu_campaign_value">MAP %1$d / %2$d</string>
+    <string name="menu_challenge_value">%1$d / %2$d SEALED</string>
+    <string name="menu_history_value">LAST %1$d COURTS</string>
+    <string name="menu_rules_value">THE PROTOCOL</string>
+    <string name="disclaimer">18+ · FICTIONAL INFLUENCE ONLY · NO BETTING, NO CASH REWARDS</string>
+
+    <string name="campaign_title">THE CAPITAL</string>
+    <string name="choose_house">CHOOSE YOUR HOUSE</string>
+    <string name="seed_chip">SEED %1$d</string>
+
+    <string name="turn_counter">TURN %1$d / %2$d</string>
+    <string name="court_of">COURT OF %1$s</string>
+    <string name="hint_pick_figure">TAP A FIGURE, THEN TAP A DISTRICT</string>
+    <string name="hint_seal_order">TAP DEPLOY TO SEAL THE ORDER</string>
+    <string name="hint_flip_orders">TAP FLIP ORDERS TO REVEAL</string>
+    <string name="hint_next_turn">READ THE CARD, THEN TAP END TURN</string>
+
+    <string name="stat_influence">INFLUENCE</string>
+    <string name="stat_favor">FAVOR</string>
+    <string name="stat_rival">RIVAL</string>
+    <string name="stat_districts">DISTRICTS HELD</string>
+    <string name="stat_best_influence">BEST INFLUENCE</string>
+    <string name="stat_courts_won">COURTS WON</string>
+    <string name="stat_decoys_called">DECOYS CALLED</string>
+
+    <string name="state_ready">READY</string>
+    <string name="state_no_favor">NOT ENOUGH FAVOR</string>
+    <string name="owner_yours">HELD BY YOUR COURT</string>
+    <string name="owner_rival">HELD BY THE RIVAL COURT</string>
+    <string name="owner_neutral">NEUTRAL DISTRICT</string>
+
+    <string name="figure_joker">JOKER</string>
+    <string name="figure_marshal">MARSHAL</string>
+    <string name="figure_herald">HERALD</string>
+    <string name="figure_spy">SPY</string>
+    <string name="figure_duchess">DUCHESS</string>
+    <string name="figure_cost_line">STR %1$d · %2$d FAVOR</string>
+    <string name="figure_headline">%1$s · STRENGTH %2$d · COST %3$d</string>
+    <string name="ability_joker">Takes the strength of the strongest adjacent figure, friend or foe.</string>
+    <string name="ability_marshal">Gains one strength on a district with a barracks.</string>
+    <string name="ability_herald">The district it holds pays one extra influence.</string>
+    <string name="ability_spy">Cheapest order in the tray, perfect for a feint.</string>
+    <string name="ability_duchess">Adjacent friendly figures gain one strength.</string>
+
+    <string name="faction_crimson">HOUSE CRIMSON</string>
+    <string name="faction_silver">HOUSE SILVER</string>
+    <string name="faction_parchment">HOUSE PARCHMENT</string>
+    <string name="faction_ability_crimson">Masquerade — decoy orders cost nothing on odd turns.</string>
+    <string name="faction_ability_silver">Edict — a disciplined court that never overspends its favor.</string>
+    <string name="faction_ability_parchment">Ledger — one extra favor every single turn.</string>
+
+    <string name="difficulty_courtier">COURTIER</string>
+    <string name="difficulty_marshal">MARSHAL</string>
+    <string name="difficulty_regent">REGENT</string>
+
+    <string name="event_curfew">CURFEW</string>
+    <string name="event_masquerade">MASQUERADE BALL</string>
+    <string name="event_riot">BREAD RIOT</string>
+    <string name="event_parade">ROYAL PARADE</string>
+    <string name="event_treason">TREASON</string>
+    <string name="event_gates">OPEN GATES</string>
+    <string name="rule_curfew">The nine inner districts pay no influence next turn.</string>
+    <string name="rule_masquerade">Decoys are free and unmasking costs four favor.</string>
+    <string name="rule_riot">One district burns out and is worth nothing from now on.</string>
+    <string name="rule_parade">Whoever holds Cathedral Square gains three influence.</string>
+    <string name="rule_treason">Control of one contested district changes hands.</string>
+    <string name="rule_gates">Both courts draw two favor and deploys cost one less.</string>
+
+    <string name="site_cathedral">CATHEDRAL</string>
+    <string name="site_treasury">TREASURY</string>
+    <string name="site_barracks">BARRACKS</string>
+    <string name="site_none">DISTRICT</string>
+
+    <string name="settings_rival_court">RIVAL COURT</string>
+    <string name="settings_threat_overlay">THREAT OVERLAY</string>
+    <string name="settings_threat_overlay_hint">Ring the districts the rival can reach next turn.</string>
+    <string name="settings_confirm_end_turn">CONFIRM END TURN</string>
+    <string name="settings_confirm_end_turn_hint">Ask before flipping with orders still unspent.</string>
+    <string name="settings_reduce_motion">REDUCE MOTION</string>
+    <string name="settings_reduce_motion_hint">Drop the celebration flakes and the looping glows.</string>
+
+    <string name="pause_title">COURT ADJOURNED</string>
+    <string name="pause_hint">The capital waits. Nothing moves until you return.</string>
+    <string name="confirm_title">ORDERS UNSPENT</string>
+    <string name="confirm_body">You still hold an order this turn. Flip anyway?</string>
+
+    <string name="verdict_win">THE CROWN IS YOURS</string>
+    <string name="verdict_loss">COURT DISSOLVED</string>
+    <string name="verdict_draw">THE COURT IS SPLIT</string>
+    <string name="verdict_forfeit_sub">YOU LEFT THE GATE UNGUARDED</string>
+    <string name="challenge_sealed">CHALLENGE SEALED</string>
+
+    <string name="replay_title">COURT RECORDS</string>
+    <string name="replay_empty">NO COURTS RECORDED YET — PLAY A MATCH TO OPEN THE LEDGER</string>
+    <string name="replay_score">INFLUENCE %1$d AGAINST %2$d</string>
+    <string name="court_number">COURT %1$d</string>
+    <string name="delta_value">+%1$d</string>
+    <string name="order_none">NO ORDER ISSUED</string>
+    <string name="order_decoy_at">DECOY · %1$s</string>
+    <string name="order_deploy_at">DEPLOY %1$s · %2$s</string>
+    <string name="takeaway_decoys">YOUR DECOYS WERE CALLED %1$d TIMES — VARY THE DISTRICT</string>
+    <string name="takeaway_no_chain">YOU HELD NO SUPPLY CHAIN AFTER TURN %1$d</string>
+    <string name="takeaway_event">AN EVENT CARD COST YOU %1$d INFLUENCE</string>
+    <string name="takeaway_hold">YOU HELD %1$d SUPPLY CHAINS — KEEP THE LINE</string>
+
+    <string name="rules_title">THE COURT PROTOCOL</string>
+    <string name="rules_goal_title">THE GOAL</string>
+    <string name="rules_goal_body">Hold the richest districts when the coronation is called on turn eight. Influence is scored every turn from the districts you hold.</string>
+    <string name="rules_order_title">HOW TO ORDER</string>
+    <string name="rules_order_body">Tap a figure in the tray, tap a district, then tap DEPLOY. You may seal up to two orders per turn, and the rival seals two of its own.</string>
+    <string name="rules_bluff_title">BLUFF AND UNMASK</string>
+    <string name="rules_bluff_body">A decoy looks exactly like a real order until the flip. UNMASK costs two favor: call a real order and it is stunned, call a decoy and the bluffer collects a favor.</string>
+    <string name="rules_figures_title">THE FIVE FIGURES</string>
+    <string name="rules_figures_body">Each figure costs favor and brings its own trick to the street.</string>
+    <string name="rules_events_title">EVENT CARDS</string>
+    <string name="rules_events_body">One card is drawn from the seeded deck at the end of every turn.</string>
+    <string name="rules_chains_title">SUPPLY CHAINS</string>
+    <string name="rules_chains_body">Three districts you hold in a straight line form a supply chain. Every chain pays two extra favor and two extra influence each turn.</string>
+    <string name="rules_fair_title">FAIR COURT</string>
+</resources>
